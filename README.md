@@ -1,5 +1,7 @@
 # data-viz-and-wrangling-tricks
-An eclectic collection of useful data visualization and manipulation tricks in Python
+An eclectic collection of useful data visualization and manipulation tricks in Python.
+
+For dataset, see: https://www.kaggle.com/datasets/codefantasy/list-of-best-selling-nintendo-games?resource=download
 
 ## Matlotlib bars, orientation and reverse coloring
 
